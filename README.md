@@ -1,4 +1,4 @@
-# diy3d.de Marlin 2.0 - Bigtreetech SKR E3 DIP v.1.0
+# diy3d.de Marlin 2.0 - Bigtreetech SKR E3 DIP v.1.0 <img align="bottom" src="https://i2.wp.com/diy3d.de/wp-content/uploads/2018/10/DIY3D_LogoNeu_100x100.png?fit=100%2C100&ssl=1" />
 
 Custom firmware for BTT SKR E3 DIP v.1.0 on Ender-3
 
@@ -6,7 +6,7 @@ Enabled features:
   - PID-Tuning hotend
   - PID-Tuning bed
   - S-Curve acceleration
-  - Manual Mesh Bed Leveling
+  - Manual Mesh Bed Leveling (9 point mesh)
     -Use bed leveling from menu
   - TMC2208 UART mode stepper drivers on axis x, y, z and e0
   
