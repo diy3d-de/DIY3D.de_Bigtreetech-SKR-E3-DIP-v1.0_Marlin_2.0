@@ -7,7 +7,7 @@ Enabled features:
   - PID-Tuning bed
   - S-Curve acceleration
   - Manual Mesh Bed Leveling (9 point mesh)
-    -Use bed leveling from menu
+     -Use bed leveling from menu
   - TMC2208 UART mode stepper drivers on axis x, y, z and e0
   
 # Marlin 3D Printer Firmware
