@@ -1,7 +1,4 @@
-# diy3d.de Version of Marlin 2.0
-# Board: Bigtreetech SKR E3 DIP v.1.0
-
-
+# diy3d.de Version of Marlin 2.0 - Bigtreetech SKR E3 DIP v.1.0
 
 # Marlin 3D Printer Firmware
 
