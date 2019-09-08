@@ -1,0 +1,9 @@
+DIY3D_4xTMC2208_001_firmware.bin
+- MMBL
+- EEPROM
+- S-CURVE
+- TMC2208 UART on x,y,z,e0
+- Thermal Runaway Protection
+- MBL Menu on display
+
+
