@@ -1,8 +1,24 @@
 DIY3D_4xTMC2208_001_firmware.bin
+-------------------------------------------
 - MMBL
 - EEPROM
 - S-CURVE
-- TMC2208 UART on x,y,z,e0
+- Stepper driver
+	- TMC2208 UART on x,y,z,e0
+- Thermal Runaway Protection
+- MBL Menu on display
+
+___________________________________________________________________________________
+
+
+DIY3D_3xTMC2208_1xA4988_002_firmware.bin
+-------------------------------------------
+- MMBL
+- EEPROM
+- S-CURVE
+- Stepper driver
+	- TMC2208 UART on x,y,z
+	- A4988 on e0 (extruder)
 - Thermal Runaway Protection
 - MBL Menu on display
 
