@@ -2,14 +2,7 @@
 
 Custom firmware for BTT SKR E3 DIP v.1.0 on Ender-3
 
-Enabled features:
-  - PID-Tuning hotend
-  - PID-Tuning bed
-  - S-Curve acceleration
-  - Manual Mesh Bed Leveling (9 point mesh)
-    - Use bed leveling from menu
-  - TMC2208 UART mode stepper drivers on axis x, y, z and e0
-  
+
 # Marlin 3D Printer Firmware
 
 [![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=bugfix-2.0.x)](https://travis-ci.org/MarlinFirmware/Marlin)
