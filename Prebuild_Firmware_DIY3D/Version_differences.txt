@@ -29,16 +29,4 @@ DIY3D_3xTMC2208_1xA4988_002_firmware.bin
 - Thermal Runaway Protection
 - MBL Menu on display
 
-_____________________________________________________________________________________
 
-DIY3D_4xTMC2208_BLTouch_firmware.bin
--------------------------------------
-
-- BLTouch
-- EEPROM
-- S-Curve
-- Stepper driver
-	- TMC2208 UART on x,y,z,e
-- Thermal Runaway Protection
-- Bed Leveling on display
-- BLTouch debug on display
